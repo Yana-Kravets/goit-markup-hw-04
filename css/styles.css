@@ -159,6 +159,7 @@ img {
 }
 
 .contact-link-icon {
+    display: block;
     fill: var(--secondary-color)
 }
 
